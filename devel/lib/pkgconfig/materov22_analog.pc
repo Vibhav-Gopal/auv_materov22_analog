@@ -1,0 +1,8 @@
+prefix=/home/r2d2/materov22_analog/devel
+
+Name: materov22_analog
+Description: Description of materov22_analog
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: rospy std_msgs
